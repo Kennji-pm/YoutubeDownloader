@@ -1,0 +1,6 @@
+/venv
+/youtube_downloader_pprojects
+/__pycache__
+test.py
+.env
+*.cpython-313.pyc
